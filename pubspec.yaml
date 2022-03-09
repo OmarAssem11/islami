@@ -14,3 +14,7 @@ dev_dependencies:
   lint: ^1.8.2
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
+flutter_native_splash:
+  background_image: assets/images/splash.png
